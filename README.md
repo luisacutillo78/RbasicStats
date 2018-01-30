@@ -8,7 +8,7 @@ http://bitsandchips.me/BAD_days/about/
 
 For the first two classes are focused on descriptive statistics and ada visualization. The corresponding set of notebooks are:
 
-NotebookRbasicStats1.ipynb
+NotebookRbasicStats1.ipynb <br>
 NotebookRbasicStats2.ipynb
 NotebookRbasicStats3.ipynb
 NotebookRbasicStats4.ipynb
