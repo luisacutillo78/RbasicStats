@@ -6,23 +6,23 @@ In this particular case we will be using the R programming language for the data
 Before satating you need to visit the #Getting Started# section (developed by Tania Allard):
 http://bitsandchips.me/BAD_days/about/
 
-For the first two classes are focused on descriptive statistics and ada visualization. The corresponding set of notebooks are:
+For the first two classes are focused on descriptive statistics and ada visualization. The corresponding set of notebooks are: <br>
 
 NotebookRbasicStats1.ipynb <br>
-NotebookRbasicStats2.ipynb
-NotebookRbasicStats3.ipynb
-NotebookRbasicStats4.ipynb
+NotebookRbasicStats2.ipynb <br>
+NotebookRbasicStats3.ipynb <br>
+NotebookRbasicStats4.ipynb <br>
 
 
 Download this set notebooks locally or clone it on Microsoft Azure, just clicking on:
 https://notebooks.azure.com/luisacutillo/libraries/RbasicStats1
 
-For the following classes, focuse on probability densities and distributions and the main hupothesis yesting procedures. The corresponding set of notebooks are:
+For the following classes, focuse on probability densities and distributions and the main hupothesis yesting procedures. The corresponding set of notebooks are:<br>
 
-Comments.ipynb
-Frequency.ipynb
-Ttest.ipynb
-One Way Anova.ipynb
+Comments.ipynb <br>
+Frequency.ipynb <br>
+Ttest.ipynb <br>
+One Way Anova.ipynb <br>
 
 Download this set notebooks locally or clone it on Microsoft Azure, just clicking on:
 https://notebooks.azure.com/luisacutillo/libraries/Tests
