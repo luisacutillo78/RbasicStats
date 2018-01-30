@@ -6,10 +6,25 @@ In this particular case we will be using the R programming language for the data
 Before satating you need to visit the #Getting Started# section (developed by Tania Allard):
 http://bitsandchips.me/BAD_days/about/
 
-For the first two classes, clone these set notebook on Microsoft Azure or download it locally, just clicking on:
+For the first two classes are focused on descriptive statistics and ada visualization. The corresponding set of notebooks are:
+
+NotebookRbasicStats1.ipynb
+NotebookRbasicStats2.ipynb
+NotebookRbasicStats3.ipynb
+NotebookRbasicStats4.ipynb
+
+
+Download this set notebooks locally or clone it on Microsoft Azure, just clicking on:
 https://notebooks.azure.com/luisacutillo/libraries/RbasicStats1
 
-For the following classes, clone these set notebook on Microsoft Azure or download it locally, just clicking on:
+For the following classes, focuse on probability densities and distributions and the main hupothesis yesting procedures. The corresponding set of notebooks are:
+
+Comments.ipynb
+Frequency.ipynb
+Ttest.ipynb
+One Way Anova.ipynb
+
+Download this set notebooks locally or clone it on Microsoft Azure, just clicking on:
 https://notebooks.azure.com/luisacutillo/libraries/Tests
 
 NB. you must have a microsoft account. You can do it now!
