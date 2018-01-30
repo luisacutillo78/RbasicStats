@@ -17,7 +17,7 @@ NotebookRbasicStats4.ipynb <br>
 Download this set notebooks locally or clone it on Microsoft Azure, just clicking on:
 https://notebooks.azure.com/luisacutillo/libraries/RbasicStats1
 
-The following classes are focused on probability densities and distributions and the main hupothesis yesting procedures. The corresponding set of notebooks are:<br>
+The following classes are focused on probability densities and distributions and the main hypothesis testing procedures. The corresponding set of notebooks are:<br>
 
 Comments.ipynb <br>
 Frequency.ipynb <br>
