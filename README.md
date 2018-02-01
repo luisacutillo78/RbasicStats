@@ -3,7 +3,7 @@ The core of this tutorial is built around the Jupyter Notebooks, an interactive 
 
 In this particular case we will be using the R programming language for the data exploration/analysis.
 
-Before satating you need to visit the #Getting Started# section (developed by Tania Allard):
+Before starting you need to visit the #Getting Started# section (developed by Tania Allard):
 http://bitsandchips.me/BAD_days/about/
 
 The first two classes are focused on descriptive statistics and ada visualization. The corresponding set of notebooks are: <br>
