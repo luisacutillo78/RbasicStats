@@ -30,8 +30,8 @@ https://notebooks.azure.com/luisacutillo/libraries/Tests
 
 The following classes are focused on Downloading and visualizing Facebook pages data and an introduction to PCA and Clustering. The corresponding set of notebooks are:
 
-Comparing Facebook Public Pages.ipynb	
-PCA and Clustering.ipynb
+Comparing Facebook Public Pages.ipynb	<br>
+PCA and Clustering.ipynb <br>
 
 Download this set notebooks locally or clone it on Microsoft Azure, just clicking on: https://notebooks.azure.com/luisacutillo/libraries/FBandPCA
 
